@@ -1,4 +1,4 @@
-# VBA-challenge
+# VBA-Stocks
 
 The attached scripts loop through all of the stocks for the indicated year and outputs the ticker symbol, the yearly change from the opening price at the beginning of a given year to the closing price at the end of that year, the percent change from the opening price at the beginning of a given year to the closing price at the end of that year, and the total stock volume associated with each ticker. 
 
