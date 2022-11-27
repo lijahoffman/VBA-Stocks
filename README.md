@@ -10,14 +10,13 @@ The yearly change and percent change outputs are both rounded to two decimal pla
 ![alt text](/Images/Screen_Shot_2018.png?raw=True)
 
 The repository also contains screenshots of the outputs for each year (like that pictured above). 
-
-
+&nbsp
+&nbsp
 ## Technologies Used
 • VBA 
 • Excel 
-
-
-
+&nbsp
+&nbsp
 Data found in Resources/Multiple_year_stock_data.xlsx
 
 
